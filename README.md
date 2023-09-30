@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @Ziyourufeng2399, a programmer who enjoys playing video games. Currently, I'm learning C/C++ and have a passion for developing various interesting projects.
+- 👋 Hello, I'm @WangYang6666667, a programmer who enjoys playing video games. Currently, I'm learning C/C++ and have a passion for developing various interesting projects.
 - 👀 I’m interested in playing electronic games
 
 - 🌱 I’m currently learning c/c++.Here are the skills that I have mastered:
